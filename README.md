@@ -51,7 +51,6 @@ Static or plain html/css and javascript projects use the following ports (8080 t
     ![website result](calculator-game/result0.png)
 
     ![receipt result](calculator-game/result1.png)
-- You can check the live version [here](https://hkhaung.github.io).
 
 5. Sign-up form (not connected to backend, done for practice)
 
